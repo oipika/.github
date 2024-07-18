@@ -2,7 +2,7 @@
 
 ##            						 About me
 
-owner of [Ikara Network](https://ikara.gg/)
+Hello I'm oipika but you can call me Pika, I like to experiment and test new things out. 
 
 
 ## 🖥️ **Socials**
