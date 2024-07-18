@@ -2,17 +2,15 @@
 
 ##            						 About me
 
-Proud 
+owner of [Ikara Network](https://ikara.gg/)
 
 
 ## 🖥️ **Socials**
 - [YouTube](https://www.youtube.com/c/oipika) 
 - [Discord](https://discord.gg/g3fshtxk2p) 
-- [Tiktok](https://www.tiktok.com/@oipika)
-- [Twitch](https://www.twitch.tv/oipika) 
-- [Twitter](https://x.com/oip1ka) 
+- [Tiktok](https://www.tiktok.com/@oipika) 
 
 ## ⚔️ **Ikara Network**
 - [Forums](https://ikara.gg/) 
-- [Store]() 
+- [Store](https://store.ikara.gg/) 
 <!--
