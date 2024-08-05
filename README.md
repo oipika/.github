@@ -10,7 +10,7 @@ Hello I'm oipika but you can call me Pika, I like to experiment and test new thi
 - [Discord](https://discord.gg/g3fshtxk2p) 
 - [Tiktok](https://www.tiktok.com/@oipika) 
 
-## ⚔️ **Ikara Network**
+## ⚔️ [**Ikara Network**](https://github.com/Ikaranetwork)
 - [Forums](https://ikara.gg/) 
 - [Store](https://store.ikara.gg/) 
 <!--
